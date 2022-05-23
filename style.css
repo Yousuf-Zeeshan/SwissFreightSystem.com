@@ -1,0 +1,60 @@
+.font{
+
+color: rgb(255, 255, 255);
+
+}
+
+li a{
+    text-decoration: none;
+    text-align: center;
+    }
+    ul{
+    
+    list-style-type: none;
+    text-align: center;
+    }
+    
+    h1{
+        font-family: 'Koulen', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Rubik', sans-serif;
+font-family: 'Secular One', sans-serif;
+       
+    }
+    
+                
+                    .bg{
+background-color: #262626;
+                    }
+                    .navbar .nav-link{
+font-size:14px ;
+font-weight:700px ;
+
+                    }
+                    .btn{
+                        padding: 10px 18px;
+                        border-width:1px ;
+                        border-radius:0 ;
+                    }
+                    .card-effect :hover {
+              box-shadow: none;
+              transform:translateY(5px) ;
+
+                    }
+                    .card-effect {
+                        box-shadow: var(--boxshadow);
+                      
+                     
+                        transition: all 0.3s ease;
+                    }
+                 .bgm{
+
+background-image: url(Images/sdsdssds.jpg);
+
+                    }
+                   .family{
+                    font-family: 'Koulen', cursive;
+                    font-family: 'Lobster', cursive;
+                    font-family: 'Rubik', sans-serif;
+                    font-family: 'Secular One', sans-serif;
+                   }
